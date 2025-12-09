@@ -1,0 +1,8 @@
+{
+  "name": "CalPal AI - Generative Calendar",
+  "description": "A multimodal, AI-powered personal calendar featuring handwriting recognition, generative theming, and gesture-friendly navigation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
